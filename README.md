@@ -13,7 +13,7 @@ DrawSmoothLine 是一个简单的，API完善的可以用来绘制平滑曲线�
 示例:
 ------------
 
-<img width =300 src = "https://raw.githubusercontent.com/GeneralZYQ/DrawSmoothLine/master/BezierPathDemo/beizerdemo.gif" alt = "processing of draw"/><img width =300 src = "" alt = "tap a point"/>
+<img width =300 src = "https://raw.githubusercontent.com/GeneralZYQ/DrawSmoothLine/master/BezierPathDemo/beizerdemo.gif" alt = "processing of draw"/><img width =300 src = "https://raw.githubusercontent.com/GeneralZYQ/DrawSmoothLine/master/BezierPathDemo/pressdots.gif" alt = "tap a point"/>
 
 使用方法:
 -----------
