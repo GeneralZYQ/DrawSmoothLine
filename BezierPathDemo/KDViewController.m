@@ -48,6 +48,8 @@
     [_points addObject:@(200)];
     [_points addObject:@(120)];
     self.graphicView.points = self.points;
+    
+    NSLog(@"baid");
 }
 
 - (void)didReceiveMemoryWarning
